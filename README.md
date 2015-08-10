@@ -1,2 +1,3 @@
-# wordpress-ajax-disqus-loader
+# Wordpress Ajax Disqus Loader
+
 Loads Disqus comments on pages loaded with ajax.
